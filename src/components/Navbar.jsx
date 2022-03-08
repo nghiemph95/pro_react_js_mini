@@ -6,8 +6,8 @@ function Navbar() {
   return (
     <NavbarContainer>
       <Text>
-        Hello World
-        <span>Nghiem</span>
+        Hello World, 
+        <span> Nghiem</span>
       </Text>
       <InputContainer>
         <Icon>
