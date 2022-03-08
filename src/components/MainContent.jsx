@@ -17,7 +17,7 @@ function MainContent() {
           </ColumnOne1>
 
           <ColumnTwo1>
-            <TitleText>Your Porjects</TitleText>
+            <TitleText>Your Projects</TitleText>
             <Projects />
           </ColumnTwo1>
         </SectionOne>
