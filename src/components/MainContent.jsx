@@ -2,6 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import Earnings from "./Earnings";
 import Info from "./Info";
+import Invoices from "./Invoices";
+import JoinSlack from "./JoinSlack";
 import Navbar from "./Navbar";
 import Projects from "./Projects";
 
@@ -26,9 +28,9 @@ function MainContent() {
           <ColumnOne2>
             <InvoiceContainer>
               <TitleText>Recent Invoices</TitleText>
-              {/* <Invoices /> */}
+              <Invoices />
             </InvoiceContainer>
-            {/* <JoinSlack /> */}
+            <JoinSlack />
           </ColumnOne2>
 
           <ColumnTwo2>
